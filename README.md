@@ -1,0 +1,1 @@
+spray-mag-template
